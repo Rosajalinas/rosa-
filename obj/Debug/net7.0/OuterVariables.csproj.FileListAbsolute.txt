@@ -1,0 +1,15 @@
+/Users/freddypalacios/DA2(2023)/OuterVariables/bin/Debug/net7.0/OuterVariables
+/Users/freddypalacios/DA2(2023)/OuterVariables/bin/Debug/net7.0/OuterVariables.deps.json
+/Users/freddypalacios/DA2(2023)/OuterVariables/bin/Debug/net7.0/OuterVariables.runtimeconfig.json
+/Users/freddypalacios/DA2(2023)/OuterVariables/bin/Debug/net7.0/OuterVariables.dll
+/Users/freddypalacios/DA2(2023)/OuterVariables/bin/Debug/net7.0/OuterVariables.pdb
+/Users/freddypalacios/DA2(2023)/OuterVariables/obj/Debug/net7.0/OuterVariables.csproj.AssemblyReference.cache
+/Users/freddypalacios/DA2(2023)/OuterVariables/obj/Debug/net7.0/OuterVariables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/freddypalacios/DA2(2023)/OuterVariables/obj/Debug/net7.0/OuterVariables.AssemblyInfoInputs.cache
+/Users/freddypalacios/DA2(2023)/OuterVariables/obj/Debug/net7.0/OuterVariables.AssemblyInfo.cs
+/Users/freddypalacios/DA2(2023)/OuterVariables/obj/Debug/net7.0/OuterVariables.csproj.CoreCompileInputs.cache
+/Users/freddypalacios/DA2(2023)/OuterVariables/obj/Debug/net7.0/OuterVariables.dll
+/Users/freddypalacios/DA2(2023)/OuterVariables/obj/Debug/net7.0/refint/OuterVariables.dll
+/Users/freddypalacios/DA2(2023)/OuterVariables/obj/Debug/net7.0/OuterVariables.pdb
+/Users/freddypalacios/DA2(2023)/OuterVariables/obj/Debug/net7.0/OuterVariables.genruntimeconfig.cache
+/Users/freddypalacios/DA2(2023)/OuterVariables/obj/Debug/net7.0/ref/OuterVariables.dll
